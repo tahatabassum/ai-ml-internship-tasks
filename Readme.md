@@ -48,9 +48,6 @@ UCI Heart Disease Dataset (via Kaggle, combined multi-source version)
 - Evaluated using Accuracy, Confusion Matrix, Classification Report, and ROC-AUC
 - Extracted feature importance from the Decision Tree
 
-**Key Results:**
-- Most important predictive features: [list top 2-3 from your feature importance chart]
-
 **Key Insight:**
 ROC-AUC was used alongside accuracy because, in a medical context, false negatives (missed disease cases) carry more risk than false positives — a single accuracy number doesn't capture this trade-off.
 
