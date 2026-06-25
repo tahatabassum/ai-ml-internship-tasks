@@ -49,7 +49,6 @@ UCI Heart Disease Dataset (via Kaggle, combined multi-source version)
 - Extracted feature importance from the Decision Tree
 
 **Key Results:**
-- [Fill in your actual accuracy/AUC numbers here once you have them]
 - Most important predictive features: [list top 2-3 from your feature importance chart]
 
 **Key Insight:**
@@ -80,7 +79,6 @@ House Price Prediction Dataset (via Kaggle)
 - Extracted top 10 important features from Gradient Boosting
 
 **Key Results:**
-- [Fill in your actual MAE / RMSE / R² numbers here]
 - Gradient Boosting outperformed Linear Regression, since it captures non-linear relationships and feature interactions that a linear model cannot represent.
 
 **Notebook:** `task 6/task6.ipynb`
